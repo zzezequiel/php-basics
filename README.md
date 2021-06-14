@@ -1,35 +1,27 @@
-`#technology1` `#technology2` `#technology3` `#master-in-software-engineering`
+`#php` `#basics` `#master-in-software-engineering`
 
-# Pill/Project title <!-- omit in toc -->
+# PHP Basics <!-- omit in toc -->
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Brief explanation of the purpose of this project, which is what they are going to create, the objective of carrying out this project, ...
+> In this project you will learn the basic notions of the famous PHP language which is so used in the world of web development.
 >
-> You can separate the explanation in different paragraphs, use all the paragraphs that you need.
+> What distinguishes PHP from other languages ​​such as Javascript is that the code is executed on the server, generating HTML and sending it to the client.
 
 ## Index <!-- omit in toc -->
 
 - [Requirements](#requirements)
 - [Repository](#repository)
-- [Running the tests (optional)](#running-the-tests-optional)
-- [Deployment (optional)](#deployment-optional)
 - [Technologies used](#technologies-used)
 - [Project delivery](#project-delivery)
 - [Resources](#resources)
 
 ## Requirements
 
-**This section details the main requirements of the project that the student must take into account. Delete this message in the final version of this `README.md`.**
-
-**Here are some examples of project requirements:**
-
-- You must develop this project using a single HTML page
-- You cannot use third-party libraries
-- You must use semantic HTML5 elements for all the contents of the application
-- \---
+- Learn the basics to program in PHP
+- Understand what a server-side language is and what it is used for
 
 ## Repository
 
@@ -39,71 +31,9 @@ To create a fork on GitHub is as easy as clicking the “fork” button on the r
 
 <img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork on GitHub" width='450'>
 
-### Installing (optional)
-
-**Include this section only if the pill/project need a previous setup.**
-
-A step by step series of examples that tell you how to get a development env
-running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a
-little demo
-
-## Running the tests (optional)
-
-**Include this section only if the pill/project has tests implemented.**
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment (optional)
-
-**Include this section only if the project needs to be deployed in a specific environment.**
-
-Add additional notes about how to deploy this on a live system
-
 ## Technologies used
 
-**This section details the technologies that are used within the project. Delete this message in the final version of this `README.md`.**
-
-**Here are some examples of technologies used:**
-
-\* HTML
-
-\* CSS
-
-\* JS
-
-\* LocalStorage
-
-\* ...
+\* PHP
 
 ## Project delivery
 
@@ -113,11 +43,9 @@ To deliver this project you must follow the steps indicated in the document:
 
 ## Resources
 
-**This section include all the main resources that the students should check.**
-
-**Here are some examples of resources:**
-
-- [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
-- [JavaScript Dates](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Date)
-- [LocalStorage](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage)
-- [...](...)
+- [What can PHP do?](https://www.php.net/manual/es/intro-whatcando.php)
+- [Sample guide for README](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
+- [XAMPP](https://www.apachefriends.org/es/index.html)
+- [How to install XAMPP on Windows](https://www.youtube.com/watch?v=h6DEDm7C37A)
+- [What is a web server?](https://www.youtube.com/watch?v=Yt1nesKi5Ec)
+- [Web server basics](https://www.youtube.com/watch?v=3VqfpVKvlxQ)
