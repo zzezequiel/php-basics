@@ -37,9 +37,9 @@ To create a fork on GitHub is as easy as clicking the “fork” button on the r
 
 ## Project delivery
 
-To deliver this project you must follow the steps indicated in the document:
-
-- [Submitting a solution](https://www.notion.so/Submitting-a-solution-524dab1a71dd4b96903f26385e24cdb6)
+To deliver this project you must send a Pull Request as explained in the Students Handbook. Remember that the PR title must be with the format 
+- Solution: + NAME AND SURNAME or TEAM NAMES AND SURNAMES.
+- For example: "Solution: Josep Riera", "Solution: Josep Riera, Toni Suárez, Marta Vázquez"
 
 ## Resources
 
